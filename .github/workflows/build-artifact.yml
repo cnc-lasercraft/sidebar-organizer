@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - fix/panel-reload-loop
+      - feat/dialog-redesign
 
 jobs:
   build:
